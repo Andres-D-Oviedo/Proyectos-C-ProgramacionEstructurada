@@ -1,0 +1,8 @@
+
+Pasajero encontrado. Sus datos son:
+Nombre: Andres
+Identificacion: 11
+Codigo de asiento: A-1
+Numero de boleto: 0
+Origen: Bogota-Colombia
+Destino: Newyork
